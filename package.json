@@ -34,7 +34,7 @@
     "typescript": "^2.7.1"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "bigi": "^1.4.0",
     "bignumber.js": "4.1.0",
     "bip39": "^2.5.0",
