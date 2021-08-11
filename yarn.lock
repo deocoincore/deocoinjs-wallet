@@ -253,6 +253,14 @@ deep-eql@^3.0.0:
   dependencies:
     type-detect "^4.0.0"
 
+deocoinjs-lib@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/deocoinjs-lib/-/deocoinjs-lib-0.0.7.tgz#a1dde73968d8ebcc15803caa9f8f8f4c144720e3"
+  dependencies:
+    bignumber.js "^4.1.0"
+    bitcoinjs-lib "^3.3.2"
+    safe-buffer "^5.1.2"
+
 diff@3.5.0, diff@^3.2.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/diff/-/diff-3.5.0.tgz#800c0dd1e0a8bfbc95835c202ad220fe317e5a12"
@@ -414,8 +422,8 @@ path-is-absolute@^1.0.0:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
 path-parse@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 pathval@^1.0.0:
   version "1.1.0"
@@ -470,14 +478,6 @@ sha.js@^2.4.0, sha.js@^2.4.8:
   dependencies:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
-
-deocoinjs-lib@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/deocoinjs-lib/-/deocoinjs-lib-0.0.7.tgz#a1dde73968d8ebcc15803caa9f8f8f4c144720e3"
-  dependencies:
-    bignumber.js "^4.1.0"
-    bitcoinjs-lib "^3.3.2"
-    safe-buffer "^5.1.2"
 
 sprintf-js@~1.0.2:
   version "1.0.3"
